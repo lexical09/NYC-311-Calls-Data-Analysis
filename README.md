@@ -1,6 +1,6 @@
 # NYC-311-Calls-Data-Analysis
 
-This Project is an analysis of NYC 311 calls dataset with 18,774,870 entries since 2010 from the [NYC OpenData wesite](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9).   
+This Project is an analysis of NYC 311 calls dataset with 18,774,870 entries since 2010 from the [NYC OpenData website](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9).   
 
 
 ### This Project answers the following major questions:
